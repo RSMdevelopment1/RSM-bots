@@ -1,0 +1,56 @@
+{
+  "wantedList": [
+    {
+      "username": "leni_morgan",
+      "crime": "Officer Murder",
+      "lastSeen": "Café",
+      "timestamp": "2/11/2025, 12:35:23 AM"
+    }
+  ],
+  "logs": [
+    "🚨 **saif** is now **WANTED** for **bully** - (2/11/2025, 12:08:57 AM)",
+    "🚨 **saif** is now **WANTED** for **hi** - (2/11/2025, 12:25:47 AM)",
+    "🚨 **leni_morgan** is now **WANTED** for **bully** - (2/11/2025, 12:34:14 AM)",
+    "🚨 **leni_morgan** is now **WANTED** for **Officer Murder** - (2/11/2025, 12:35:23 AM)",
+    "🚨 **fashonyCas** is now **WANTED** for **Injecting needles into civilians** - (2/11/2025, 12:37:16 AM)",
+    "🚨 **saif** is now **WANTED** for **bay harbor butcher** - (2/11/2025, 12:42:47 AM)"
+  ],
+  "arrestLogs": [
+    {
+      "suspect": "saif",
+      "crime": "bully",
+      "officer": "denji_218",
+      "time": "2/11/2025, 12:17:22 AM"
+    },
+    {
+      "suspect": "saif",
+      "crime": "hi",
+      "officer": "denji_218",
+      "time": "2/11/2025, 12:29:35 AM"
+    },
+    {
+      "suspect": "leni_morgan",
+      "crime": "bully",
+      "officer": "vivid0158",
+      "time": "2/11/2025, 12:34:21 AM"
+    },
+    {
+      "suspect": "saif",
+      "crime": "bay harbor butcher",
+      "officer": "denji_218",
+      "time": "2/11/2025, 12:44:19 AM"
+    },
+    {
+      "suspect": "fashonyCas",
+      "crime": "Injecting needles into civilians",
+      "officer": "vivid0158",
+      "time": "2/11/2025, 12:52:52 AM"
+    }
+  ],
+  "playerInfo": [
+    {
+      "username": "leni_morgan",
+      "info": "Kidnapped someone. | arrested."
+    }
+  ]
+}
