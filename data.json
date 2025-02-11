@@ -1,12 +1,5 @@
 {
-  "wantedList": [
-    {
-      "username": "leni_morgan",
-      "crime": "Officer Murder",
-      "lastSeen": "Café",
-      "timestamp": "2/11/2025, 12:35:23 AM"
-    }
-  ],
+  "wantedList": [],
   "logs": [
     "🚨 **saif** is now **WANTED** for **bully** - (2/11/2025, 12:08:57 AM)",
     "🚨 **saif** is now **WANTED** for **hi** - (2/11/2025, 12:25:47 AM)",
@@ -45,6 +38,12 @@
       "crime": "Injecting needles into civilians",
       "officer": "vivid0158",
       "time": "2/11/2025, 12:52:52 AM"
+    },
+    {
+      "suspect": "leni_morgan",
+      "crime": "Officer Murder",
+      "officer": "denji_218",
+      "time": "2/11/2025, 8:06:43 PM"
     }
   ],
   "playerInfo": [
